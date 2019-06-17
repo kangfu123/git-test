@@ -9,6 +9,7 @@ public class FirstClass {
         System.out.println("睁开双眼做场梦");
         System.out.println("睁开双眼做场梦");
         System.out.println("睁开双眼做场梦");
+        System.out.println("心安理得");
 
     }
 }
